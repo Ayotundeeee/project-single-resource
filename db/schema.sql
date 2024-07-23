@@ -10,5 +10,6 @@ CREATE TABLE snakes (
     diet TEXT,
     habitats VARCHAR[],
     average_length FLOAT,
-    venomous BOOLEAN
+    venomous BOOLEAN,
+    image_url TEXT
 );
